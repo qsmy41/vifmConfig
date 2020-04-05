@@ -1,2 +1,5 @@
+fileview */ tree %c
+nnoremap w :view<cr>
+
 colorscheme gruvbox
 colorscheme Default
