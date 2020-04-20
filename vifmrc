@@ -1,5 +1,7 @@
 fileview */ tree %c
 nnoremap w :view<cr>
+set relativenumber
+set number
 
 colorscheme gruvbox
 colorscheme Default
