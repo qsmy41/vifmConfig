@@ -3,5 +3,8 @@ nnoremap w :view<cr>
 set relativenumber
 set number
 
+command zathura zathura *.{pdf} &
+filetype *.pdf zathura
+
 colorscheme gruvbox
 colorscheme Default
